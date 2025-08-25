@@ -30,7 +30,7 @@ from client import OasisDBClient, OasisDBError
 # --- 1. 配置信息 ---
 # 数据集配置
 DATASET_URL = "http://ann-benchmarks.com/fashion-mnist-784-euclidean.hdf5"
-DATASET_FILENAME = "benchmark/fashion-mnist-784-euclidean/data/fashion-mnist-784-euclidean.hdf5"
+DATASET_FILENAME = "benchmark/fashion-mnist-784-euclidean/dataset/fashion-mnist-784-euclidean.hdf5"
 # OasisDB 配置
 COLLECTION_NAME = "fashion_mnist"
 VECTOR_DIMENSION = 784  # Fashion-MNIST 向量是 784 维
