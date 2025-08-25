@@ -11,7 +11,6 @@ sstfile
 coverage.out
 .history
 *.log
-
-
+client-sdk/Python/data
 
 

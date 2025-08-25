@@ -3,6 +3,6 @@ rm oasisdb.log
 
 rm -rf data indexfile walfile
 
-# make build
+make build
 
 ./bin/oasisdb
