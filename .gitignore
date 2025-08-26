@@ -12,6 +12,6 @@ coverage.out
 .history
 *.log
 .history
-client-sdk/Python/data
+oasisdb/benchmark/fashion-mnist-784-euclidean/dataset
 
 

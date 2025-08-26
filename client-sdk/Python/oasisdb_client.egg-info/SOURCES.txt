@@ -1,0 +1,8 @@
+pyproject.toml
+./client.py
+./example.py
+oasisdb_client.egg-info/PKG-INFO
+oasisdb_client.egg-info/SOURCES.txt
+oasisdb_client.egg-info/dependency_links.txt
+oasisdb_client.egg-info/requires.txt
+oasisdb_client.egg-info/top_level.txt
